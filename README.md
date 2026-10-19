@@ -1,4 +1,4 @@
-# StayView360 — Hotel Reservation & Virtual Tour
+# — Hotel Reservation & Virtual Tour
 
 StayView360 is a hotel reservation web application developed as a portfolio project using Laravel. It combines room information, booking management, and an interactive 360° virtual tour experience.
 
